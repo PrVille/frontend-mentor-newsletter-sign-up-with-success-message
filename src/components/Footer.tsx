@@ -99,7 +99,7 @@ const Footer = () => {
             className="opacity-90 hover:opacity-100"
           >
             <svg
-              className="h6 w-6"
+              className="h-6 w-6"
               fill="#181717"
               role="img"
               viewBox="0 0 24 24"
