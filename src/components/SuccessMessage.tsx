@@ -23,7 +23,7 @@ const SuccessMessage = ({
   return (
     <div className="bg-white h-full w-full sm:h-auto sm:w-auto sm:rounded-[30px] shadow-md inline-block sm:px-7 sm:pt-12 sm:pb-14 font-roboto">
       <div className="max-w-md flex flex-col px-5 py-10 sm:px-9 sm:py-0 h-full">
-        <img className="h-16 w-16 mt-24 sm:mt-0" src="../../assets/images/icon-success.svg" />
+        <img className="h-16 w-16 mt-24 sm:mt-0" src="./icon-success.svg" />
         <h1 className="mt-10 font-bold text-[56px]/[56px] text-darkSlateGrey">
           Thanks for subscribing!
         </h1>

@@ -35,7 +35,7 @@ const SingUpForm = ({
     <div className="bg-white w-full sm:h-auto sm:w-auto sm:rounded-[30px] shadow-md inline-flex sm:p-6 gap-8 font-roboto justify-center">
       <div className="flex flex-col max-w-[375px] sm:max-w-md sm:p-8">
         <div className="block sm:hidden">
-          <img src="../../assets/images/illustration-sign-up-mobile.svg" />
+          <img src="./illustration-sign-up-mobile.svg" />
         </div>
         <div className="flex flex-col sm:mt-10 px-5 py-10 sm:p-0">
           <h1 className="font-bold text-darkSlateGrey text-4xl sm:text-[56px]">
@@ -46,15 +46,15 @@ const SingUpForm = ({
           </p>
           <ul className="mt-6 sm:mt-8 space-y-2">
             <li className="flex items-start gap-4">
-              <img src="../../assets/images/icon-list.svg" />
+              <img src="./icon-list.svg" />
               <span>Product discovery and building what matters</span>
             </li>
             <li className="flex items-start gap-4">
-              <img src="../../assets/images/icon-list.svg" />
+              <img src="./icon-list.svg" />
               <span>Measuring to ensure updates are a success</span>
             </li>
             <li className="flex items-start gap-4">
-              <img src="../../assets/images/icon-list.svg" />
+              <img src="./icon-list.svg" />
               <span>And much more!</span>
             </li>
           </ul>
@@ -81,7 +81,7 @@ const SingUpForm = ({
         </div>
       </div>
       <div className="hidden sm:block">
-        <img src="../../assets/images/illustration-sign-up-desktop.svg" />
+        <img src="./illustration-sign-up-desktop.svg" />
       </div>
     </div>
   )
