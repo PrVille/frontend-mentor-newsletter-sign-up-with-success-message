@@ -20,7 +20,7 @@ const Footer = () => {
 
           <a
             className="px-6 py-3 text-black bg-[#d9d9d9] hover:bg-[#B3B3B3] rounded-full text-center uppercase italic font-bold space tracking-widest text-sm"
-            href="https://github.com/PrVille/newsletter-sign-up-with-success-message"
+            href="https://github.com/PrVille/frontend-mentor-newsletter-sign-up-with-success-message"
             target="_blank"
             rel="noopener noreferrer"
           >
