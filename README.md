@@ -29,7 +29,7 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 
 ### Links
 
-- Solution URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/newsletter-signup-form-with-success-message-using-ts-react-tailwind-fGuTY59H6I](https://www.frontendmentor.io/solutions/newsletter-signup-form-with-success-message-using-ts-react-tailwind-fGuTY59H6I)
 - Live Site URL: [https://newsletter-sign-up-with-success-message-self.vercel.app/](https://newsletter-sign-up-with-success-message-self.vercel.app/)
 - All Solutions URL: [https://frontend-mentor-solutions-mu.vercel.app/](https://frontend-mentor-solutions-mu.vercel.app/)
 
@@ -38,9 +38,11 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 ### Built with
 
 <p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />  
 </p>
 
 ### Useful resources
