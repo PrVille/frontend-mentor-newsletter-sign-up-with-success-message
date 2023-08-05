@@ -5,7 +5,8 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [The challenge](#the-challenge)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -15,7 +16,19 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 
 ## Overview
 
-### Screenshot
+### The challenge
+
+Users should be able to:
+
+- Add their email and submit the form
+- See a success message with their email after successfully submitting the form
+- See form validation messages if:
+  - The field is left empty
+  - The email address is not formatted correctly
+- View the optimal layout for the interface depending on their device's screen size
+- See hover and focus states for all interactive elements on the page
+
+### Screenshots
 
 <div align="center">
   <img src="./design/desktop-design.jpg" width="100%" alt="desktop-design" />
